@@ -227,12 +227,17 @@ nav ul ul ul li{
 	color: white;
 	text-align: center;
 	cursor: pointer;
+	opacity: 60%;
 }
 
 .footer i{
 	color: black;
 	margin-left: 10px;
 	margin-right: 10px;
+}
+
+.footer i:hover{
+	color: #065446;
 }
 
 
