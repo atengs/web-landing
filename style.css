@@ -200,6 +200,10 @@ nav ul ul ul li{
 	background: #0f1923;
 }
 
+.column p{
+	padding-top: 30px;
+}
+
 .footer{
 	height: 30px;
 	line-height: 30px;
